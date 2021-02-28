@@ -1,0 +1,23 @@
+body {
+    background: #101010;
+    color: #ffffff;
+    font-size: 25px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+a {
+    color: pink;
+}
+
+a:hover {
+    color: salmon;
+}
+
+#iss-map {
+    height: 400px;
+    width: 500px;
+    border: 2px black solid;
+}
